@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845815538258",
+    "firebase_url": "https://svampkartan-92ffe-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "svampkartan-92ffe",
+    "storage_bucket": "svampkartan-92ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845815538258:android:55e25f56eb44c4ccaeb58b",
+        "android_client_info": {
+          "package_name": "com.example.svampkartan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845815538258-ugm0kql22siqs5g69cj24vjvk12t5r4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.svampkartan",
+            "certificate_hash": "baaf17961c721379face856b4b4307e10c6b07e6"
+          }
+        },
+        {
+          "client_id": "845815538258-03ioe1tdcoc1gqd7n490ulqotrnd5vim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVubEUQ1pi743uDIulsBttyyTFqw3a25E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845815538258-03ioe1tdcoc1gqd7n490ulqotrnd5vim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SvampKartan</string>
+    <string name="click_me">Click Me!</string>
+    <string name="welcome_text">Välkommen till SvampKartan!</string>
+</resources>

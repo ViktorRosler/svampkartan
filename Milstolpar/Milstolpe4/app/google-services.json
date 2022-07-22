@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845815538258",
+    "project_id": "svampkartan-92ffe",
+    "storage_bucket": "svampkartan-92ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845815538258:android:ce34dc45f69380bdaeb58b",
+        "android_client_info": {
+          "package_name": "com.example.svampkartan2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845815538258-03ioe1tdcoc1gqd7n490ulqotrnd5vim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVubEUQ1pi743uDIulsBttyyTFqw3a25E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845815538258-03ioe1tdcoc1gqd7n490ulqotrnd5vim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
